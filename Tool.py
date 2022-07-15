@@ -4,8 +4,8 @@ import threading
 import time
 
 print("""\033[1;31;40m
-           CREATOR: DapaZX
-      	 | UDP | TCP | 
+CREATOR: DapaZX
+| UDP | TCP | 
 """)
 
 ip = str(input("\033[1;36;40m IP \033[1;34;40m : "))
